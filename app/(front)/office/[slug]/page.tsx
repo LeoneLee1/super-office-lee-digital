@@ -92,7 +92,7 @@ export default async function OfficeSpaceDetailPage({ params }: Props) {
                 </button>
               ) : (
                 <a
-                  href={`https://wa.me/62853990104003?text=Saya ingin booking kantor ${office.title} details http://localhost:3000/office/${office.slug}`}
+                  href={`https://wa.me/(PHONE_NUMBER)?text=Saya ingin booking kantor ${office.title} details http://localhost:3000/office/${office.slug}`}
                   className="flex items-center justify-center w-full rounded-full p-[16px_26px] gap-3 bg-[#0D903A] font-bold text-[#F7F7FD]"
                 >
                   <Image src="/assets/images/icons/slider-horizontal-white.svg" width={24} height={24} className="w-6 h-6" alt="icon" />
