@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { OfficeSpace } from "../types/officeSpaces.types";
-import { formatRupiah } from "@/app/lib/utils/formatRupiah";
 
 export default function OfficeSpaceCard({ officeSpace }: { officeSpace: OfficeSpace }) {
   return (
@@ -15,7 +14,7 @@ export default function OfficeSpaceCard({ officeSpace }: { officeSpace: OfficeSp
           <div className="card-detail-container flex flex-col p-5 pb-[30px] gap-4">
             <h3 className="line-clamp-2 font-bold text-[22px] leading-[36px] h-[72px]">{officeSpace.title}</h3>
             <div className="flex items-center justify-between">
-              <p className="font-semibold text-xl leading-[30px]">{formatRupiah(officeSpace.price)}</p>
+              <p className="font-semibold text-xl leading-[30px]">Rp {officeSpace.price.toLocaleString("id")}</p>
               <div className="flex items-center justify-end gap-[6px]">
                 <p className="font-semibold">{officeSpace.duration}</p>
                 <Image src="/assets/images/icons/clock.svg" width={24} height={24} className="w-6 h-6" alt="icon" />

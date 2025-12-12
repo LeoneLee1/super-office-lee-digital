@@ -14,7 +14,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-3.png", "/assets/images/thumbnails/thumbnail-details-1.png", "/assets/images/thumbnails/thumbnail-details-4.png"],
     tags: ["Popular"],
     about: "Private space suited for focused work, collaboration, or meeting clients, located in prime Jakarta.",
-    features: ["Fast Connection", "Privacy", "Sustainability", "Extra Snacks", "Compact", "Free Move"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: false,
     salesContacts: [
       { name: "Masayoshi", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -35,7 +35,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-4.png", "/assets/images/thumbnails/thumbnail-details-1.png", "/assets/images/thumbnails/thumbnail-details-3.png"],
     tags: ["Recommended"],
     about: "Premium meeting rooms and coworking stations built for professionals needing structure and comfort.",
-    features: ["Fast Connection", "Privacy", "Full AC", "Free Move", "Extra Snacks"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: true,
     salesContacts: [
       { name: "Rizky Mahendra", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -56,7 +56,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-1.png", "/assets/images/thumbnails/thumbnail-details-4.png", "/assets/images/thumbnails/thumbnail-details-2.png"],
     tags: ["Popular"],
     about: "Modern industrial loft workspace for startups and hybrid teams needing flexibility.",
-    features: ["Fast Connection", "Privacy", "Free Move", "Coffee Bar", "Compact"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: false,
     salesContacts: [
       { name: "Jonathan Lee", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -77,7 +77,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-2.png", "/assets/images/thumbnails/thumbnail-details-3.png", "/assets/images/thumbnails/thumbnail-details-1.png"],
     tags: ["Budget"],
     about: "Creative environment with collaborative zones and private areas designed to optimize productivity.",
-    features: ["Fast Connection", "Privacy", "Free Move", "Extra Snacks", "Global Event"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: false,
     salesContacts: [
       { name: "Samuel Prasetyo", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -98,7 +98,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-3.png", "/assets/images/thumbnails/thumbnail-details-2.png", "/assets/images/thumbnails/thumbnail-details-4.png"],
     tags: ["Minimalist"],
     about: "Calm and minimalist workspace inspired by Nordic design, perfect for focused individual work.",
-    features: ["Fast Connection", "Privacy", "Calm Atmosphere", "Compact"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: true,
     salesContacts: [
       { name: "Alvaro Dimas", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -119,7 +119,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-4.png", "/assets/images/thumbnails/thumbnail-details-2.png", "/assets/images/thumbnails/thumbnail-details-1.png"],
     tags: ["Popular"],
     about: "High-energy collaborative arena perfect for hybrid teams needing full facilities.",
-    features: ["Fast Connection", "Privacy", "Fast WiFi", "Free Move"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: false,
     salesContacts: [
       { name: "Kevin August", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -140,7 +140,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-1.png", "/assets/images/thumbnails/thumbnail-details-3.png", "/assets/images/thumbnails/thumbnail-details-4.png"],
     tags: ["Premium"],
     about: "Japanese-style private office with acoustic panels for high-focus executives.",
-    features: ["Fast Connection", "Privacy", "Premium Desk", "Sustainability", "Free Move"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: false,
     salesContacts: [
       { name: "Darren Kaito", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -161,7 +161,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-2.png", "/assets/images/thumbnails/thumbnail-details-4.png", "/assets/images/thumbnails/thumbnail-details-3.png"],
     tags: ["Budget"],
     about: "Affordable flex desk solution designed for freelancers and remote workers.",
-    features: ["Fast Connection", "Privacy", "Fast WiFi", "Extra Snacks"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: true,
     salesContacts: [
       { name: "Bryan Setiawan", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
@@ -182,7 +182,7 @@ export const officeSpaces: OfficeSpace[] = [
     images: ["/assets/images/thumbnails/thumbnail-details-3.png", "/assets/images/thumbnails/thumbnail-details-1.png", "/assets/images/thumbnails/thumbnail-details-2.png"],
     tags: ["Team"],
     about: "Large studio office suitable for corporate teams and long-term collaboration.",
-    features: ["Fast Connection", "Privacy", "Global Event"],
+    features: ["Fast Connection", "Privacy", "Global Event", "Sustainbility", "Extra Snacks", "Compact", "Free Move"],
     isFullyBooked: false,
     salesContacts: [
       { name: "Steven Rinaldi", role: "Sales Manager", photo: "/assets/images/photos/photo-1.png" },
