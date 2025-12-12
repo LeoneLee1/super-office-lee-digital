@@ -28,7 +28,7 @@ export default async function CitySpaceDetailPage({ params }: Props) {
             <h1 className="font-extrabold text-[50px] leading-[60px]">
               Great Office in <br /> <span className="text-[#0D903A]">{city.name} City</span>
             </h1>
-            <p className="text-lg leading-8 text-[#000929]">Kantor yang tepat dapat memberikan impact pekerjaan menjadi lebih baik dan sehat dalam tumbuhkan karir.</p>
+            <p className="text-lg leading-8 text-[#000929]">The right office can have a better and healthier impact on your work and career growth.</p>
           </div>
           <div id="Hero-Image" className="absolute right-0 w-[calc(100%-((100%-1130px)/2)-305px)] h-[434px] rounded-bl-[40px] overflow-hidden">
             <Image src="/assets/images/thumbnails/thumbnail-details-4.png" width={500} height={500} className="w-full h-full object-cover" alt="hero background" />

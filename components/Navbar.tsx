@@ -11,24 +11,17 @@ export default function Navbar() {
           </Link>
           <ul className="flex items-center gap-[50px] w-fit">
             <li>
-              <Link href="/">Browse</Link>
+              <Link href="#Cities">Browse</Link>
             </li>
             <li>
-              <Link href="/">Popular</Link>
-            </li>
-            <li>
-              <Link href="/">Categories</Link>
-            </li>
-            <li>
-              <Link href="/">Events</Link>
+              <Link href="#Benefits">Benefit</Link>
             </li>
             <li>
               <Link href="view-booking-details.html">My Booking</Link>
             </li>
           </ul>
-          <a href="#" className="flex items-center gap-[10px] rounded-full border border-[#000929] py-3 px-5">
-            <Image src="/assets/images/icons/call.svg" width={24} height={24} className="w-6 h-6" alt="icon" />
-            <span className="font-semibold">Contact Us</span>
+          <a href="#" className="flex items-center gap-[10px] rounded-full border bg-[#0D903A] text-white py-3 px-5">
+            <span className="font-semibold">Login</span>
           </a>
         </div>
       </nav>

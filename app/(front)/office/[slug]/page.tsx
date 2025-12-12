@@ -82,14 +82,6 @@ export default async function OfficeSpaceDetailPage({ params }: Props) {
                 <Image src="/assets/images/icons/verify.svg" width={24} height={24} className="w-[30px] h-[30px]" alt="icon" />
                 <p className="font-semibold leading-[28px]">Mendapatkan akses pembelajaran terbaru terkait dunia startup</p>
               </div>
-              <div className="flex items-center gap-3">
-                <Image src="/assets/images/icons/verify.svg" width={24} height={24} className="w-[30px] h-[30px]" alt="icon" />
-                <p className="font-semibold leading-[28px]">Mendapatkan akses pembelajaran terbaru terkait dunia startup</p>
-              </div>
-              <div className="flex items-center gap-3">
-                <Image src="/assets/images/icons/verify.svg" width={24} height={24} className="w-[30px] h-[30px]" alt="icon" />
-                <p className="font-semibold leading-[28px]">Mendapatkan akses pembelajaran terbaru terkait dunia startup</p>
-              </div>
             </div>
             <hr className="border-[#F6F5FD]" />
             <div className="flex flex-col gap-[14px]">

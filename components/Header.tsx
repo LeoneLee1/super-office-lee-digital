@@ -15,15 +15,11 @@ export default function Header() {
               <br />
               Grow Your Business.
             </h1>
-            <p className="text-lg leading-8 text-[#000929]">Kantor yang tepat dapat memberikan impact pekerjaan menjadi lebih baik dan sehat dalam tumbuhkan karir.</p>
+            <p className="text-lg leading-8 text-[#000929]">The right office can have a better and healthier impact on work and career growth.</p>
             <div className="flex items-center gap-5">
-              <a href="#" className="flex items-center rounded-full p-[20px_26px] gap-3 bg-[#0D903A]">
+              <a href="#Cities" className="flex items-center rounded-full p-[20px_26px] gap-3 bg-[#0D903A]">
                 <Image src="/assets/images/icons/slider-horizontal-white.svg" width={24} height={24} className="w-[30px] h-[30px]" alt="icon" />
                 <span className="font-bold text-xl leading-[30px] text-[#F7F7FD]">Explore Now</span>
-              </a>
-              <a href="#" className="flex items-center rounded-full border border-[#000929] p-[20px_26px] gap-3 bg-white">
-                <Image src="/assets/images/icons/video-octagon.svg" width={24} height={24} className="w-[30px] h-[30px]" alt="icon" />
-                <span className="font-semibold text-xl leading-[30px]">Watch Story</span>
               </a>
             </div>
           </div>

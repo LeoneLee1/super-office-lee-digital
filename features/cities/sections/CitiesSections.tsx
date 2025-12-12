@@ -14,9 +14,9 @@ export default function CitiesSections() {
             You Can Choose <br />
             Our Favorite Cities
           </h2>
-          <Link href={"/"} className="rounded-full py-3 px-5 bg-white font-bold">
+          {/* <Link href={"/"} className="rounded-full py-3 px-5 bg-white font-bold">
             Explore All City
-          </Link>
+          </Link> */}
         </div>
         <Swiper spaceBetween={30} slidesOffsetAfter={30} slidesOffsetBefore={30} slidesPerView="auto" className="swiper w-full">
           <div className="swiper-wrapper">
